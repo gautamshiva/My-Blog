@@ -1,0 +1,32 @@
+                    GIT
+
+1.GIT is a distributed version control system and source code management (SCM) system with an emphasis to handle small and large projects with speed and efficiency.
+2.The language used in GIT is 'C' language.
+3.The purpose of Git is to manage a project, or a set of files, as they change over time.It stores this information in a data structure called a repository.
+4.GIT Version Control System is a software that helps software developers to work together and maintain a complete history of their work.
+5.The different type of operations used in GIT are:
+*Create operation
+*Clone operation
+*Push operation 
+*Update operation
+*Stash operation
+*Move operation
+*Delete operation
+*Rename operation
+*Tag operation
+*Patch operation
+6.The advantages of GIT are:
+*Free and open source
+*Fast and small
+*Implicit backup
+*Security
+*Easier branching
+7.The command to write a commit message in Git is “git commit -a”.
+8.GitHub is a web-based hosting service for software development projects that uses the Git revision control system and also has their standard GUI application available for download (Windows, Mac, GNU/ Linux) directly from the service's website.
+9.GIT branch operation allows creating another line of development.
+10.Different branching operations are:
+*Create Branch
+*Switch between Branches
+*Delete a Branch
+*Rename a Branch
+*Merge Two Branches
